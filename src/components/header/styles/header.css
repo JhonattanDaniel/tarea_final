@@ -1,0 +1,36 @@
+.logo {
+   margin-top: -28vw;
+   margin-right: 75vw;
+   border-radius: 50%;
+  width: 300px;
+  }
+
+
+.alert {
+  width:80%; 
+  margin:auto;
+  background-color: rgb(246, 251, 255);
+  border:none;
+}
+
+.carousel{
+  width: 50%; 
+  margin:0vmax;
+  margin-top: -5vw;
+  position: absolute;
+}
+
+.nav {
+  margin-left: 80vw;
+  margin-top: -26vw;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: "Courier New", sans-serif;
+}
+
+p  {
+  font-size: 1.1rem;
+  font-family: "Courier New", sans-serif;
+}
